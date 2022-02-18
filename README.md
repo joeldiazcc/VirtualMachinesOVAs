@@ -23,4 +23,4 @@ For any feedback feel free to create an issue here or reach out to me over Twitt
 # Windows 10
 [Windows 10 Home x64]  
 Link: 
-Screenshot:  
+Screenshot: ![alt text]()
