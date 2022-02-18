@@ -1,5 +1,9 @@
 # VirtualMachinesOVAs
-My collection of OVA's of Virtual Machines [I use Oracle VM VirtualBox]
+<hr>
+
+<h3>My collection of OVA's of Virtual Machines [I use Oracle VM VirtualBox]</h3>
+<hr>
+
 Al VirtualMachines have:
-RAM:          4096MB
-Virtual Disk: 80GB
+&nbsp; RAM:          4096MB
+&nbsp; Virtual Disk: 80GB
