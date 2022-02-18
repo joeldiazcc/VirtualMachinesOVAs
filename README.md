@@ -10,5 +10,5 @@ Virtual Disk: 80GB
 Lenguage:     English  
   
   
-User User  
-Root Root
+user user  
+root root
