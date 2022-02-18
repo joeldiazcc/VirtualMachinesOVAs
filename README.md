@@ -5,8 +5,8 @@
 <hr>
 
 Al VirtualMachines have:
-RAM:          4096MB  
-Virtual Disk: 80GB  
+RAM:          2048MB  
+Virtual Disk: 60GB [dynamically allocated]   
 Lenguage:     English  
   
   
