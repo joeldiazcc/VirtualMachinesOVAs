@@ -1,7 +1,7 @@
 # VirtualMachinesOVAs
 <hr>
 
-<h3>My collection of OVA's of Virtual Machines [I use Oracle VM VirtualBox]</h3>
+<h3>My OVA's collection of Virtual Machines [I use Oracle VM VirtualBox]</h3>
 <hr>
 
 # All VirtualMachines have:
