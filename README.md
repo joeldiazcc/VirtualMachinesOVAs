@@ -21,6 +21,6 @@ Google Drive -  https://drive.google.com/drive/folders/1pFhqPFH5TSGDcXoTv3uwFgYW
 For any feedback feel free to create an issue here or reach out to me over Twitter - @joeldiazcc  
 
 # Windows 10
-64bits  
+[Windows 10 Home x64]  
 Link: 
 Screenshot:  
