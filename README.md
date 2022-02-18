@@ -12,7 +12,15 @@ Lenguage:     English
 # Global credentials 
 user user  
 root root  
+In some OVA there is only root user.
 
 # Download Link [FOLDER]
-Google Drive -  
-  
+Google Drive -  https://drive.google.com/drive/folders/1pFhqPFH5TSGDcXoTv3uwFgYWtQ4H5HOZ?usp=sharing  
+
+# Notes
+For any feedback feel free to create an issue here or reach out to me over Twitter - @joeldiazcc  
+
+# Windows 10
+64bits  
+Link: 
+Screenshot:  
