@@ -8,3 +8,7 @@ Al VirtualMachines have:
 RAM:          4096MB  
 Virtual Disk: 80GB  
 Lenguage:     English  
+  
+  
+User User
+Root Root
