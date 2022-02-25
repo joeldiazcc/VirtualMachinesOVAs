@@ -25,4 +25,6 @@ For any feedback feel free to create an issue here or reach out to me over Twitt
 Link: https://drive.google.com/file/d/1cdklH3EN1XEJ9KuXfDt29sxKWUsRoz2k/view?usp=sharing  
 Screenshot: ![alt text](https://github.com/joeldiazcc/screenshots/blob/main/windows10x64.png?raw=true)
 
+# Ubuntu
+
 
