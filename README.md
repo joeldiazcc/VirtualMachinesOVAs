@@ -30,3 +30,7 @@ Screenshot: ![alt text](https://github.com/joeldiazcc/screenshots/blob/main/wind
 # Fedora
 
 # WinterOS
+
+# IOs
+
+# Android
