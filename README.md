@@ -23,12 +23,14 @@ For any feedback feel free to create an issue here or reach out to me over Twitt
 # Windows 10
 [Windows 10 Home x64]  
 Link: https://drive.google.com/file/d/1cdklH3EN1XEJ9KuXfDt29sxKWUsRoz2k/view?usp=sharing  
-Screenshot: ![alt text](https://github.com/joeldiazcc/screenshots/blob/main/windows10x64.png?raw=true)
+Screenshot:  
+![alt text](https://github.com/joeldiazcc/screenshots/blob/main/windows10x64.png?raw=true)
 
 # Ubuntu
 [Ubuntu 20.04.4 x64]  
 Link: https://drive.google.com/file/d/1P3CbeLmTnmKcmkkAx7NTB7pU8qgD8ASw/view?usp=sharing  
-Screenshot: ![alt text](https://github.com/joeldiazcc/screenshots/blob/main/Ubuntu20.png?raw=true)
+Screenshot:  
+![alt text](https://github.com/joeldiazcc/screenshots/blob/main/Ubuntu20.png?raw=true)
 
 # Fedora
 
